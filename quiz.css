@@ -1,0 +1,27 @@
+.container{
+    width: 50% !important;
+    margin-top: 10% !important;
+}
+
+.card-header{
+    background-color: mediumorchid;
+}
+
+.btn-primary{
+    float: right !important;
+    background-color: mediumorchid;
+    border: none !important;
+    outline: none !important;
+}
+
+.card-text:hover,
+.active {
+    background: #0f0c29;  /* fallback for old browsers */
+    background: mediumorchid;
+    color: #fff;
+    cursor: pointer;
+}
+
+.card-text{
+    padding: 5px 10px;
+}
